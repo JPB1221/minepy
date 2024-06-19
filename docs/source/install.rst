@@ -15,7 +15,7 @@ Requirements:
 
 * GCC
 * Python 3.5 ->
-* NumPy >= 1.3.0 (with header files)
+* NumPy == 1.26.4 (with header files)
 
 On Linux
 ^^^^^^^^
